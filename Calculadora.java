@@ -7,7 +7,7 @@ public class Calculadora {
         this.numero2 = numero2;
     }
   
-    public int resta() {
-        return numero1 - numero2;
+    public int multiplicacion() {
+        return numero1 * numero2;
     }
 }
